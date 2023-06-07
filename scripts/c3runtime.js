@@ -9714,8 +9714,8 @@ self.C3_ExpressionFuncs = [
 		() => "developer",
 		() => "SoundsAndMusic",
 		() => "sounds and music",
-		() => "Andrey",
-		() => "ABVStudio",
+		() => "Artur",
+		() => "Artur Frank",
 		() => "ShareText",
 		() => "My new result in Puzzle Block Ancient game is: ",
 		() => "ChangeLanguage",
@@ -10006,8 +10006,8 @@ self.C3_ExpressionFuncs = [
 			const v0 = p._GetNode(0).GetVar();
 			return () => and("WinTipsAt_Level", v0.GetValue());
 		},
-		() => "http://sharkywalls.com",
-		() => "Sharkywalls games"
+		() => "",
+		() => ""
 ];
 
 
